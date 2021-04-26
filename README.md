@@ -1,5 +1,6 @@
 ## Quality Dashboard
 
+
 ### What is it ?
 ![What's ?](docs/quality_dashboard_whats.png)
 
